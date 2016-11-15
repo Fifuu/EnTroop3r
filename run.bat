@@ -1,0 +1,1 @@
+java -cp EnTroop3r-0.1.0.jar pl.put.poznan.entroop3r.EnTroop3r C:/Path/To/File.txt
